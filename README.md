@@ -2,7 +2,7 @@
 
 The RAG-PDF Evaluation Project is designed to manage and query a database of PDF using Retrieval-Augmented Generation (RAG) with the Mistral LLM model. It includes scripts for populating the database, querying the model, and evaluating its performance through unit tests.
 
-This project runs locally using Ollama and Langchain.
+This RAG system runs locally using Ollama and Langchain.
 
 ## Project Structure
 
