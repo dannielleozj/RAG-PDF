@@ -1,6 +1,6 @@
-# RAG-PDF Evaluation Project
+# RAG-PDF Mistral Project
 
-The RAG-PDF Evaluation Project is designed to manage and query a database of PDF using a Retrieval-Augmented Generation (RAG) model. It includes scripts for populating the database, querying the model, and evaluating its performance through unit tests.
+The RAG-PDF Evaluation Project is designed to manage and query a database of PDF using a Retrieval-Augmented Generation (RAG) with the Mistral model. It includes scripts for populating the database, querying the model, and evaluating its performance through unit tests.
 
 ## Project Structure
 
